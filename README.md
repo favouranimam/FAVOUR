@@ -1,9 +1,18 @@
-# ABOUT ME 👩🏽‍💻
+# About Me
 
-I am Animam Favour, a passionate and detail-oriented Data Analyst 📊 with a strong foundation in data cleaning, analysis, and visualization.  
-With a degree in History and International Studies 🎓, I bring a unique perspective to problem-solving, combining analytical thinking with a deep understanding of patterns and trends.  
+I am **Animam Favour**, a dedicated and detail-oriented **Data Analyst** with expertise in **data cleaning, analysis, and visualization**.  
+Originally trained in **History and International Studies**, I successfully transitioned into the data analytics field, bringing a unique perspective that combines critical thinking, research skills, and data-driven problem-solving.  
 
-I specialize in tools and technologies such as Excel 📑, PostgreSQL 🗄️, Python 🐍, and ChatGPT 🤖 to extract actionable insights and support data-driven decision-making.  
-My work focuses on transforming raw data into meaningful reports 📈, interactive dashboards 💻, and clear business recommendations.  
+I work with tools such as **Excel**, **PostgreSQL**, **Python**, and **ChatGPT** to extract actionable insights and support data-informed decision-making.  
+My focus is on transforming complex datasets into clear, impactful reports, interactive dashboards, and strategic business recommendations.  
 
-Driven by curiosity 🔍 and a love for continuous learning 📚, I aim to bridge the gap between complex datasets and practical solutions that empower organizations to achieve their goals.
+Committed to continuous learning and professional growth, I aim to deliver solutions that empower organizations to achieve measurable results.
+
+# SKILLS 🛠️
+
+- **Data Analysis & Visualization** 📊: Excel, Pivot Tables, Charts, Data Cleaning, Data Transformation  
+- **Databases** 🗄️: PostgreSQL, SQL Queries, Joins, Aggregations  
+- **Programming & Automation** 🐍: Python (Pandas, NumPy), ChatGPT Integration 🤖  
+- **Business Intelligence Tools** 📈: Power BI, Dashboard Design, KPI Tracking  
+- **Soft Skills** 💡: Critical Thinking, Problem-Solving, Communication, Research  
+
